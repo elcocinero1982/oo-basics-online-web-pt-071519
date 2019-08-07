@@ -25,7 +25,7 @@ def brand
   @brand
 end
 def cobble 
-  self.condition="New"
+  self.condition="new"
   @cobble
   puts "Your shoe is as good as new!"
   
