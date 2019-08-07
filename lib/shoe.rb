@@ -22,6 +22,7 @@ def material
   @material
 end
 def brand 
+  self.brand="Nike"
   @brand
 end
 def cobble 
