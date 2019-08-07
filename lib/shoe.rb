@@ -38,4 +38,3 @@ end
 
 
 end
-hoe.brand=("new")
